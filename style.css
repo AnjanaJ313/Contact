@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url('/welcome.jpg');
+    background: url("welcome.jpg");
     background-size: 280%;
     background-position: -400px 0px;
 }
